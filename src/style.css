@@ -1,0 +1,23 @@
+.centre{
+    margin: 10% 0 6% 30%;
+}
+.alig{ 
+    margin-left: 20%;
+    color: rgb(68, 68, 68);
+    margin-bottom: 20px;
+}
+input{
+    text-align: center;
+    padding: 8px 8px;
+    width: 20%;
+    border:2px solid rgb(88, 88, 88);
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+button{
+    padding: 20px 50px;
+    background-color: rgb(161, 158, 158);
+    border-style: none;
+    border:2px solid rgb(88, 88, 88);
+    border-radius: 3px;
+}
